@@ -38,6 +38,8 @@ class _LoginState extends State<Login> {
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.white,
+                fontFamily: 'NewTegomin',
+                fontSize: 40,
               ),
             ),
             Padding(padding: EdgeInsets.all((50))),
